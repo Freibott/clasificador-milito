@@ -143,3 +143,5 @@ Además, la página directa **"Listo de svedoj kiuj mortis en la Hispana Enlanda
 | Guerras Napoleónicas | 95 | 719 | 95 | 719 | 517 |
 
 Cifras aproximadas: cada artículo se atribuyó a la primera subcategoría por la que apareció.
+
+**Corrección (medido en el cuaderno, 30/10):** el recorrido real da **134 artículos** para la Guerra Civil Española (133 únicos), no 131. El estudio restó los 19 artículos atribuidos primero a `Kategorio:Frankismo`, pero 3 de ellos también cuelgan de la raíz o de otra subcategoría no excluida y el recorrido los conserva. Las cifras de párrafos de esa fila se recalcularán con el dataset real (Bloque 4).
