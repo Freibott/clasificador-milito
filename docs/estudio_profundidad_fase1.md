@@ -145,3 +145,6 @@ Además, la página directa **"Listo de svedoj kiuj mortis en la Hispana Enlanda
 Cifras aproximadas: cada artículo se atribuyó a la primera subcategoría por la que apareció.
 
 **Corrección (medido en el cuaderno, 30/10):** el recorrido real da **134 artículos** para la Guerra Civil Española (133 únicos), no 131. El estudio restó los 19 artículos atribuidos primero a `Kategorio:Frankismo`, pero 3 de ellos también cuelgan de la raíz o de otra subcategoría no excluida y el recorrido los conserva. Las cifras de párrafos de esa fila se recalcularán con el dataset real (Bloque 4).
+
+
+**Cifras reales (07/11/2026, Bloque 4):** con el texto descargado y la limpieza definitiva (párrafos de 10 palabras o más, sin etiquetas, enlaces, referencias entre corchetes ni citas bibliográficas con ISBN/ISSN), las tres clases quedan en 4.951 (Segunda Guerra Mundial), 1.177 (Guerra Civil Española) y 601 (Guerras Napoleónicas) párrafos. La estimación de 719 para las Guerras Napoleónicas incluía unos 100 párrafos de bibliografía que ahora se descartan. Tras quitar el artículo compartido (Hugo Sperrle) y los párrafos repetidos quedan 4.935, 1.153 y 601 párrafos únicos. Al equilibrar con semilla 42 el dataset final tiene 601 párrafos por clase (1.803 en total).
